@@ -4,7 +4,7 @@ date: "6 March 2021"
 output: github_document
 ---
 
-Group Number:
+Group Number:1
 
 Group Members' Names (IDs):
 
@@ -13,7 +13,7 @@ Group Members' Names (IDs):
 3.                      -- Member 2
 4.                      -- Member 3
 
-
+5
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
